@@ -33,24 +33,10 @@ The current sheet lists **474 problems across 18 sections**.
 
 Each section contains:
 - `README.md` — checklist
-- `solutions/` — C++17 solutions
+- `solutions/` — python 17 solutions
 - `notes.md` — patterns, mistakes, and revision notes
 
-## C++17 template
 
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
-class Solution {
-public:
-    // Your solution
-};
-
-int main() {
-    return 0;
-}
-```
 
 ## Commit style
 
